@@ -2,25 +2,5 @@
     {
         "title": "Test Title",
         "text": "Test text"
-    },
-    {
-        "title": "Chelsea",
-        "text": "chelsea is cool",
-        "id": "40c0"
-    },
-    {
-        "title": "blah blah blah",
-        "text": "blah blah blah",
-        "id": "331b"
-    },
-    {
-        "title": "cats and dogs",
-        "text": "woof and meow",
-        "id": "196f"
-    },
-    {
-        "title": "trees",
-        "text": "pecan\noak",
-        "id": "82ef"
     }
 ]
